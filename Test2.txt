@@ -1,0 +1,26 @@
+<h1>Grootan Technologies</h1>
+<h1>Round 2 Test</h1>
+<p>&nbsp; &nbsp;</p>
+<p>Fill in this form to proceed forward.</p>
+<p>&nbsp;</p>
+<p>&nbsp; &nbsp; <strong>Name</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<input id="name" name="email" required="" type="text" placeholder="Enter Name" /> &nbsp; &nbsp;</p>
+<p><strong>&nbsp; &nbsp; Age</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<input id="psw" name="psw" required="" type="age" placeholder="Enter Age" /> &nbsp; &nbsp;</p>
+<p><label for="psw-repeat"><strong>&nbsp; &nbsp; Country</strong></label>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<input id="psw-
+
+repeat" name="psw-repeat" required="" type="text" placeholder="Enter Country Name" />&nbsp; &nbsp;</p>
+<p><label for="psw-repeat"><strong>&nbsp; &nbsp; DOB</strong></label>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<input id="psw-repeat" name="psw-repeat" required="" type="text" placeholder="dd/mm/yyyy" />&nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp;<strong>Gender&nbsp; &nbsp;</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<input name="Gender" type="Radio" value="Male" />Male <input name="Gender" type="Radio" value="Female" />Female</p>
+<p><strong>&nbsp; &nbsp;Languages Known:&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong><label for="Language"><select id="Language" name="Kown">
+<option value="Java">Java</option>
+<option value="C++">C++</option>
+<option value="Go">Go</option>
+<option value="Ruby">Ruby</option>
+<option value="Kotlin">Kotlin</option>
+</select></label></p>
+<p><label for="favcolor"><strong>&nbsp; &nbsp;Favorite color</strong> :&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</label> <input id="favcolor" name="favcolor" type="color" value="#ff0000" /></p>
+<p><strong><label for="myfile">&nbsp; &nbsp;Upload Photograph :</label></strong>&nbsp; &nbsp; &nbsp;<input id="myfile" name="myfile" type="file" /></p>
+<p><label for="psw-repeat"><strong>&nbsp; &nbsp;Email</strong></label>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<input id="psw-repeat" name="psw-repeat" required="" type="text" placeholder="Enter Mail id" />&nbsp; &nbsp;</p>
+<p><label for="psw-repeat"><strong>&nbsp; &nbsp;Time </strong></label>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<input id="psw-repeat" name="psw-repeat" required="" type="text" placeholder="--:-- --" />&nbsp; &nbsp;</p>
+<p><label for="psw-repeat"><strong>&nbsp; &nbsp;Web Address</strong></label>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<input id="psw-repeat" name="psw-repeat" required="" type="text" placeholder="Enter website Address" />&nbsp; &nbsp;</p>
+<div class="slidecontainer"><strong>&nbsp; &nbsp;CGPA&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong>&nbsp; <input id="myRange" class="slider" max="100" min="1" type="range" value="50" /></div>
+<p style="text-align: center;">&nbsp; &nbsp; <button class="Submitbtn" type="text">Submit</button>&nbsp; &nbsp;</p>
